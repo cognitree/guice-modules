@@ -1,0 +1,4 @@
+title: "Hello World"
+site :
+  host : localhost
+  port : 8080
